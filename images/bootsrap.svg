@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Bootstrap</title><g id="Bootstrap"><path d="M16,8.5A2.5,2.5,0,0,0,13.5,6H8v5h5.5A2.5,2.5,0,0,0,16,8.5Z" style="fill:#303c42"/><path d="M14,12H8v6h6a3,3,0,0,0,0-6Z" style="fill:#303c42"/><path d="M21,1H3A2,2,0,0,0,1,3V21a2,2,0,0,0,2,2H21a2,2,0,0,0,2-2V3A2,2,0,0,0,21,1ZM14,19H7.5a.5.5,0,0,1-.5-.5V5.5A.5.5,0,0,1,7.5,5h6a3.5,3.5,0,0,1,2.07,6.32A4,4,0,0,1,14,19Z" style="fill:#303c42"/></g>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="social; media; social media; logo; bootsrap" dc:description="social; media; social media; logo; bootsrap" dc:publisher="Iconscout" dc:date="2017-02-21" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alpár - Etele Méder</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>
